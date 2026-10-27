@@ -1,6 +1,6 @@
 # Personal Link Landing Page
 
-A clean, responsive, single-page links website inspired by Linktree. Built with pure HTML and CSS, featuring smooth hover effects, social media branding, and a professional profile layout.
+A clean, responsive, single-page links website inspired by micro-landing page platforms. Built with pure HTML and CSS, featuring smooth hover effects, social media branding, and a professional profile layout.
 
 ## Features
 
@@ -24,7 +24,7 @@ Update the following sections to personalize the page:
 ### Profile Information
 
 ```html
-<h1 class="name">Jane Doe</h1>
+<h1 class="name">XOFQuiet</h1>
 
 <p class="tagline">
     Tester • Developer • Researcher
@@ -45,9 +45,22 @@ Update the following sections to personalize the page:
 Replace placeholder URLs with your own:
 
 ```html
-https://linkedin.com/in/yourprofile
-https://github.com/yourusername
-https://instagram.com/yourusername
+<a href="https://github.com/yourusername" target="_blank" class="link-card github">
+    <div class="link-title">💻 GitHub</div>
+    <div class="link-sub">Projects & Code</div>
+</a>
+```
+
+Add color to your own button:
+
+```css
+.github:hover{
+    background:#24292E;
+    color:#fff;
+    box-shadow:
+        0 0 20px rgba(36,41,46,.6),
+        0 0 40px rgba(36,41,46,.3);
+}
 ```
 
 ### Footer
@@ -61,10 +74,10 @@ https://instagram.com/yourusername
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/XOFQuiet/links.git
 ```
 
-2. Open `index.html` in your browser.
+2. Open `links.html` in your browser.
 
 No build tools or dependencies required.
 
@@ -79,7 +92,6 @@ The page includes:
 - X (Twitter)
 - YouTube
 - Discord
-- Save Contact Button
 
 ## License
 
