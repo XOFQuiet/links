@@ -1,4 +1,4 @@
-# Personal Links Landing Page
+# Personal Link Landing Page
 
 A clean, responsive, single-page links website inspired by Linktree. Built with pure HTML and CSS, featuring smooth hover effects, social media branding, and a professional profile layout.
 
@@ -9,7 +9,6 @@ A clean, responsive, single-page links website inspired by Linktree. Built with 
 - Profile section with avatar, name, and status badge
 - Social media link cards
 - Platform-specific hover effects and glow animations
-- Save Contact button support
 - Lightweight with no frameworks required
 
 ## Built With
