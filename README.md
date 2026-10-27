@@ -4,6 +4,9 @@ A clean, responsive, single-page links website inspired by micro-landing page pl
 
 ## Features
 
+<img width="2485" height="1117" alt="Example" src="https://github.com/user-attachments/assets/3d0add51-153f-4de0-bf15-17170567fe88" />
+
+
 - Responsive design for desktop and mobile
 - Clean and modern UI
 - Profile section with avatar, name, and status badge
